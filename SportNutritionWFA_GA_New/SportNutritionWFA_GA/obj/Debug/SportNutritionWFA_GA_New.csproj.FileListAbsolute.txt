@@ -1,0 +1,48 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA_New.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA_New.csprojResolveAssemblyReference.cache
+G:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe.config
+G:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.exe
+G:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.pdb
+G:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe
+G:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.pdb
+G:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA_New.csprojResolveAssemblyReference.cache
+G:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.Form1.resources
+G:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.Properties.Resources.resources
+G:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA_New.csproj.GenerateResource.Cache
+F:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe.config
+F:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.exe
+F:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.pdb
+J:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe.config
+J:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.exe
+J:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.pdb
+J:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe
+J:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.pdb
+J:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA_New.csprojResolveAssemblyReference.cache
+J:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.Form1.resources
+J:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.Properties.Resources.resources
+J:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA_New.csproj.GenerateResource.Cache
+E:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe.config
+E:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.exe
+E:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.pdb
+E:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe
+E:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.pdb
+E:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA_New.csprojResolveAssemblyReference.cache
+E:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.Form1.resources
+E:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.Properties.Resources.resources
+E:\projects c#\test\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA_New.csproj.GenerateResource.Cache
+D:\git\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe.config
+D:\git\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.exe
+D:\git\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.pdb
+D:\git\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe
+D:\git\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.pdb
+D:\git\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA_New.csprojResolveAssemblyReference.cache
+D:\git\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.Form1.resources
+D:\git\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.Properties.Resources.resources
+D:\git\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA_New.csproj.GenerateResource.Cache

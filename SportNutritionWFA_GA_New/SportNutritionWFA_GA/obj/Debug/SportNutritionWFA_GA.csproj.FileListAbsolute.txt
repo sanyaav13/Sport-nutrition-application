@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA_New\SportNutritionWFA_GA\bin\Debug\SportNutritionWFA_GA.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\SportNutritionWFA_GA_New\SportNutritionWFA_GA\obj\Debug\SportNutritionWFA_GA.pdb
